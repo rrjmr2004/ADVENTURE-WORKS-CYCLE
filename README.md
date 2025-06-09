@@ -179,11 +179,5 @@ Este análisis con Power BI para AWC revela **áreas de mejora clave** en rentab
 - 📊 DAX (Data Analysis Expressions)  
 - 📁 Power Query  
 
----
 
-## 📌 Licencia
-
-Este proyecto es de uso académico y personal bajo la Licencia MIT.
-
----
 
