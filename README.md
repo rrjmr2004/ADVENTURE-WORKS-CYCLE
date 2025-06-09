@@ -177,7 +177,11 @@ Este análisis con Power BI para AWC revela **áreas de mejora clave** en rentab
 
 - 🟨 Power BI  
 - 📊 DAX (Data Analysis Expressions)  
-- 📁 Power Query  
+- 📁 Power Query
+
+  ## 🧑‍💼 Autores
+
+- 👨‍💻 Roman Matheus – www.linkedin.com/in/roman-matheus-9a6689159 · https://github.com/rrjmr2004
 
 
 
