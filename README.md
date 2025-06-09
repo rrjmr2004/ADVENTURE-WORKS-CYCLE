@@ -176,7 +176,6 @@ Este análisis con Power BI para AWC revela **áreas de mejora clave** en rentab
 ## 🧠 Tecnologías Utilizadas
 
 - 🟨 Power BI  
-- 🔷 SQL Server  
 - 📊 DAX (Data Analysis Expressions)  
 - 📁 Power Query  
 
